@@ -1,0 +1,183 @@
+{
+ "sections": [
+  {
+   "id": "755058fe-80b1-8173-c608-d1f0e7930336",
+   "title": "Action Bars",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Action-Bars-7550.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "daf7eeb3-65c9-2af2-e8a4-3ffb635bf9df",
+   "title": "Different Types of Navigation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Different-Types-of-Navigation-daf7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "89d40e53-c116-3d92-eb6c-5ea2c6c7d906",
+   "title": "Using actions for navigation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Using-actions-for-navigation-89d4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1307c566-c0df-4602-8ddc-0ed132509999",
+   "title": "Let's Start with the Action Bar",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Let-s-Start-with-the-Action-Bar-1307.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d556ff0b-a77b-4742-ae24-2f08ef450810",
+   "title": "Themes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Themes-d556.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "487fd34a-3455-826a-0364-43232d4fcc07",
+   "title": "The Android Support Libraries",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-Android-Support-Libraries-487f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6417ff61-e65a-f714-2e91-4245335039d1",
+   "title": "Build.gradle",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Build-gradle-6417.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3d2d4f00-30ab-91a4-5daf-31bd8cf1a723",
+   "title": "Your project may include support libraries",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Your-project-may-include-support-libraries-3d2d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a8acb492-fa06-8bac-b06f-3aefd81a0751",
+   "title": "Support Libraries Continued",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Support-Libraries-Continued-a8ac.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "df056879-701e-eec1-25fb-f7b471c3ec4e",
+   "title": "We'll get the app to use up to date themes",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/We-ll-get-the-app-to-use-up-to-date-themes-df05.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "408692c5-a227-85f5-2aeb-d1582cfb2663",
+   "title": "Change MainActivity to use an Activity",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Change-MainActivity-to-use-an-Activity-4086.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6c64da2c-f329-87df-aa60-96e044e61b49",
+   "title": "Apply theme in AndroidManifest.xml",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Apply-theme-in-AndroidManifest-xml-6c64.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1b33ab01-3038-8824-508a-2242f79bf3c1",
+   "title": "Define styles in Style Resource files",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Define-styles-in-Style-Resource-files-1b33.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8468b5b3-f468-3787-b96c-8434f5873411",
+   "title": "Set Default Theme in styles.xml",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Set-Default-Theme-in-styles-xml-8468.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "079c072b-e846-e434-198f-7aee27a3827b",
+   "title": "Test Drive the App",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Test-Drive-the-App-079c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3008adfd-3715-f66f-d10c-9c1bc28a02bc",
+   "title": "Use a Material theme on newer devices",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Use-a-Material-theme-on-newer-devices-3008.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
