@@ -4,6 +4,7 @@
    "id": "755058fe-80b1-8173-c608-d1f0e7930336",
    "title": "Action Bars",
    "files": [],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Action-Bars-7550.md",
@@ -113,7 +114,14 @@
   {
    "id": "408692c5-a227-85f5-2aeb-d1582cfb2663",
    "title": "Change MainActivity to use an Activity",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/bitsandpizzas/MainActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Change-MainActivity-to-use-an-Activity-4086.md",
@@ -124,7 +132,13 @@
   {
    "id": "6c64da2c-f329-87df-aa60-96e044e61b49",
    "title": "Apply theme in AndroidManifest.xml",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Apply-theme-in-AndroidManifest-xml-6c64.md",
@@ -146,7 +160,14 @@
   {
    "id": "8468b5b3-f468-3787-b96c-8434f5873411",
    "title": "Set Default Theme in styles.xml",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/res/values/styles.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Set-Default-Theme-in-styles-xml-8468.md",
@@ -157,7 +178,18 @@
   {
    "id": "3008adfd-3715-f66f-d10c-9c1bc28a02bc",
    "title": "Use a Material theme on newer devices",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/res/values-v21/styles.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Use-a-Material-theme-on-newer-devices-3008.md",
@@ -168,7 +200,13 @@
   {
    "id": "47a8ca35-3dfa-77a3-e063-85765dedb40a",
    "title": "What happens when you run the app",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/What-happens-when-you-run-the-app-47a8.md",
@@ -279,7 +317,19 @@
   {
    "id": "6729b639-020f-3236-831a-5d24ef389772",
    "title": "Add to strings.xml and menu_main.xml",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/res/values/strings.xml",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "app/src/main/res/menu/menu_main.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Add-to-strings-xml-and-menu-main-xml-6729.md",
@@ -290,7 +340,18 @@
   {
    "id": "0d71ceb9-7aef-b223-db17-f133c7804261",
    "title": "Inflate the menu in the activity",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/java/com/hfad/bitsandpizzas/MainActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Inflate-the-menu-in-the-activity-0d71.md",
@@ -301,7 +362,18 @@
   {
    "id": "9176a3ef-8936-520f-38ab-ea33247227f4",
    "title": "React to action item clicks",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/java/com/hfad/bitsandpizzas/MainActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/React-to-action-item-clicks-9176.md",
@@ -312,7 +384,14 @@
   {
    "id": "414b2eaf-d256-9b56-4519-aa37476e573b",
    "title": "Create OrderActivity",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/bitsandpizzas/OrderActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Create-OrderActivity-414b.md",
@@ -323,7 +402,18 @@
   {
    "id": "dacb9d0f-e809-67f0-5bbd-a28833ec64d7",
    "title": "Start OrderActivity with the Create Order action item",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/java/com/hfad/bitsandpizzas/MainActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Start-OrderActivity-with-the-Create-Order-action-item-dacb.md",
@@ -345,7 +435,18 @@
   {
    "id": "6d362335-632e-1305-5644-7e6817ab5838",
    "title": "Test Drive the App",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Test-Drive-the-App-6d36.md",
@@ -356,8 +457,13 @@
   {
    "id": "77cf8025-0c26-e21b-63f8-488f59768233",
    "title": "Sharing is Caring",
-   "files": [],
-   "layout": "",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Sharing-is-Caring-77cf.md",
@@ -379,7 +485,19 @@
   {
    "id": "61aa5841-be60-f04d-7d78-10ee483beeac",
    "title": "Add a share action provider to menu_main.xml",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/res/values/strings.xml",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "app/src/main/res/menu/menu_main.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Add-a-share-action-provider-to-menu-main-xml-61aa.md",
@@ -390,7 +508,18 @@
   {
    "id": "fe5d07d3-40aa-1365-f471-99a02edb263f",
    "title": "Specify the content with an intent",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/java/com/hfad/bitsandpizzas/MainActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Specify-the-content-with-an-intent-fe5d.md",
@@ -412,7 +541,18 @@
   {
    "id": "2dd62fef-c0e3-dd00-0fde-09a7b98789ad",
    "title": "Test Drive the App",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Test-Drive-the-App-2dd6.md",
@@ -423,7 +563,13 @@
   {
    "id": "6484fa7e-e88c-ba1c-10c0-75da5039ac59",
    "title": "Enabling Up navigation",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Enabling-Up-navigation-6484.md",
@@ -434,7 +580,14 @@
   {
    "id": "384ddf76-0f07-bcf5-b6c3-fd99410c419f",
    "title": "Setting an Activity's Parent",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/AndroidManifest.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Setting-an-Activity-s-Parent-384d.md",
@@ -445,7 +598,18 @@
   {
    "id": "bbe48972-1fcf-ede4-c3f6-bd98921ce9b1",
    "title": "Adding the Up button",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/java/com/hfad/bitsandpizzas/OrderActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Adding-the-Up-button-bbe4.md",
@@ -456,7 +620,13 @@
   {
    "id": "23a5a2ec-6de2-152a-7d77-bd6aa2beeec1",
    "title": "Test Drive the App",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Test-Drive-the-App-23a5.md",
