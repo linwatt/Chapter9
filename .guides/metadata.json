@@ -167,8 +167,10 @@
      "action": "open"
     }
    ],
-   "layout": "2-panels",
-   "path": [],
+   "layout": "2-panels-tree",
+   "path": [
+    "app/src/main/res/values/styles.xml"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Set-Default-Theme-in-styles-xml-8468.md",
    "chapter": false,
@@ -190,7 +192,9 @@
     }
    ],
    "layout": "",
-   "path": [],
+   "path": [
+    "app/src/main/res/values-v21"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Use-a-Material-theme-on-newer-devices-3008.md",
    "chapter": false,
@@ -624,9 +628,14 @@
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
     }
    ],
-   "layout": "1-panel",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Test-Drive-the-App-23a5.md",
@@ -637,7 +646,13 @@
   {
    "id": "e52811a4-ccd3-49c9-3bca-ad9838fcb1c6",
    "title": "Bullet Points",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Bullet-Points-e528.md",
